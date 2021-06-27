@@ -1,0 +1,38 @@
+div {
+    display: flex;
+    flex-direction: row;
+    padding-left: 450px;
+
+}
+
+ul {
+    margin-top: 2px;
+}
+
+.nav-links {
+    margin-left: 100px;
+}
+
+.box,span {
+    border: 0px solid black;
+    border-radius: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    background-color: black;
+    color:white;
+    font-size: 18px;
+    margin-left: 0em;
+    margin-top: 8em;
+    padding: 19px 85px 19px 85px;
+}
+
+#btn {
+    border: 5px solid black;
+    border-radius: 14px;
+    font-size: 18px;
+    color: black;
+    background:tomato;
+    margin-left: 8em;
+    margin-top: 2em;
+    padding: 10px 85px 10px 85px;
+}
